@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.OneHotEncoder","timestamp":1575747541774,"sparkVersion":"2.3.4","uid":"oneHot_6a2dd5171928","paramMap":{"outputCol":"currency_onehot","dropLast":true,"inputCol":"currency_indexed"}}
